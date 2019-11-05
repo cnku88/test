@@ -12,5 +12,6 @@ public class Test {
 		System.out.println(zi.name);
 		System.out.println(zi.age);
 		System.out.println(zi.add);
+		System.out.println("test!");
 		}
 }
